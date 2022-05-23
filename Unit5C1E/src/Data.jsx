@@ -114,4 +114,4 @@ function CandidateCard(){
       </div>
   );
 }
-export default CandidateCard
+export default Data

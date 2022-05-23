@@ -14,7 +14,8 @@ export default function App() {
         <Button title="PREV" id="PREV" />
         <Button id="NEXT" title="NEXT" />
       </div>
-      {data.map((item) => {})}
+      <CandidateCard/>
+      {/* {data.map((item) => {})} */}
     </div>
   );
 }
